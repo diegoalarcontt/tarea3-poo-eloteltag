@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-94862f44bd652669d6b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stage1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stage1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stage1-Debug-8fb5814d8ad6d70c0362.json",
+					"name" : "stage1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stage1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stage1_autogen-Debug-a6b0e7d6de2f37f803b7.json",
+					"name" : "stage1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stage1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stage1_autogen_timestamp_deps-Debug-e94ddc72a7bf1c99a674.json",
+					"name" : "stage1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/diegr/OneDrive/Documentos/stage1/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/diegr/OneDrive/Documentos/stage1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

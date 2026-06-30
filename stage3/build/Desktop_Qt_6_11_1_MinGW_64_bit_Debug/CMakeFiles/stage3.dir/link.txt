@@ -1,3 +1,0 @@
-C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\stage3.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\stage3.dir/objects.a @CMakeFiles\stage3.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\stage3.dir/objects.a -Wl,--no-whole-archive -o stage3.exe -Wl,--out-implib,libstage3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\stage3.dir\linkLibs.rsp

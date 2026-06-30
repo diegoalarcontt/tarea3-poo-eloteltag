@@ -1,0 +1,6 @@
+build/ 
+*/build/ 
+build-* 
+*.exe 
+*.o 
+.qtc_clangd 
